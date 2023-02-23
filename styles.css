@@ -1,2 +1,6 @@
-
+li:nth-child(2){
+	background-color:yellow;
+	color:red;
+	
+}
 /* Your CSS Code here. */
